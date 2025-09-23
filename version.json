@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "desc": "更新测试",
+  "version": "1.0.7",
+  "desc": "修改引导文案、添加在线更新功能",
   "wgtUrl": "https://cdn.jsdelivr.net/gh/3551790059/uniapp-updates/update.wgt"
 }
